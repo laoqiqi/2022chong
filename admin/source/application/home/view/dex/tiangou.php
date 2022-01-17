@@ -1,0 +1,2 @@
+ <img src="http://text.zpchaopai.com/%E9%A2%84%E8%A7%88%E5%9B%BE_%E5%8D%83%E5%9B%BE%E7%BD%91_%E7%BC%96%E5%8F%B714136698.png" height="100%" width="100%">
+ <textarea cols="20" rows="20" style="font-size:18px;background:transparent;border-style:none;float: left;margin-top:-505px;margin-left:119px" readonly><?= $data ?></textarea>
